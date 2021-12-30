@@ -27,3 +27,5 @@ elif rBMI > 30 and rBMI < 35:
 	print("You are obese")
 elif rBMI > 35:
 	print("You are clinically obese")
+else:
+	print()
